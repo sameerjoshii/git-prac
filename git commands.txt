@@ -21,6 +21,4 @@ git remote add origin git@github.com:sameerjoshii/git-prac.git  -->   its use to
 
 
 git push -u origin master      --> used to push the file in github
-=======
-i am chnaging it yr
->>>>>>> 2f5c4ec9575e1ae9d365e88eeb426aa6d0a8aef0
+
