@@ -1,0 +1,6 @@
+git --version   --> it shows the version of git that you are using.
+git status --> shows the status of git, if it is initilized or not.
+
+git init --> it initilized the directory to the git to run in git.
+
+git add . --> it takes all files to staging area from working directory.
