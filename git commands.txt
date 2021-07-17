@@ -13,9 +13,14 @@ git log --> shows how many people have done change in my file.
 git config --global user.name "sambro"
 git config --global user.email "sambro@gov.np"
 -->  is used to change the username and email (--global) is used to if i make any other repository that will also save by this username and email. if iremove global, eamil is only changed for this repo.
+.
 
+<<<<<<< HEAD
 
 git remote add origin git@github.com:sameerjoshii/git-prac.git  -->   its use to add github into git  and link is link of your repo 
 
 
 git push -u origin master      --> used to push the file in github
+=======
+i am chnaging it yr
+>>>>>>> 2f5c4ec9575e1ae9d365e88eeb426aa6d0a8aef0
