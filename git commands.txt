@@ -15,3 +15,4 @@ git config --global user.email "sambro@gov.np"
 -->  is used to change the username and email (--global) is used to if i make any other repository that will also save by this username and email. if iremove global, eamil is only changed for this repo.
 .
 
+i am chnaging it yr
