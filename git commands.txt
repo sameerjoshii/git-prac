@@ -4,3 +4,12 @@ git status --> shows the status of git, if it is initilized or not.
 git init --> it initilized the directory to the git to run in git.
 
 git add . --> it takes all files to staging area from working directory.
+
+git commit -m "write any message like commited" --> it commits the file in git.
+
+
+git log --> shows how many people have done change in my file.
+
+git config --global user.name "sambro"
+git config --global user.email "sambro@gov.np"
+-->  is used to change the username and email (--global) is used to if i make any other repository that will also save by this username and email. if iremove global, eamil is only changed for this repo.
